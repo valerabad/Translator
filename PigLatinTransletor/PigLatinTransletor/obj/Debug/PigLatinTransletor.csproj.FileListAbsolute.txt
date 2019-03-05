@@ -1,0 +1,7 @@
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\bin\Debug\PigLatinTransletor.exe.config
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\bin\Debug\PigLatinTransletor.exe
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\bin\Debug\PigLatinTransletor.pdb
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\obj\Debug\PigLatinTransletor.csprojResolveAssemblyReference.cache
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\obj\Debug\PigLatinTransletor.csproj.CoreCompileInputs.cache
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\obj\Debug\PigLatinTransletor.exe
+c:\users\baditsa\source\repos\PigLatinTransletor\PigLatinTransletor\obj\Debug\PigLatinTransletor.pdb
